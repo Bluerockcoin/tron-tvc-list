@@ -7,9 +7,9 @@ Follow the steps below to add a new token：
 ```
 {
       "address": "TLa2f6VPqDgRE67v1736s7bJ8Ray5wYjU7",
-      "symbol": "WIN",
-      "name": "WINkLink",
-      "decimals": 6,
+      "symbol": "BRT",
+      "name": "Bluerock",
+      "decimals": 18,
       "logoURI": "https://coin.top/profile_images/JKtJTydD_400x400.jpg",
       "homepage": "https://winklink.org/",
       "MarketCapLink": "https://coinmarketcap.com/currencies/wink/",
